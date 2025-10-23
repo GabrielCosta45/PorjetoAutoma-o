@@ -1,4 +1,7 @@
 🚀 ROTEIRO DE APRENDIZADO E PROJETO – AUTOMAÇÃO FÍSICA (IoT)
+
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+
 🧩 ETAPA 1 — Fundamentos e primeiros testes (1 a 2 semanas)
 
 Objetivo: Entender como sensores e atuadores funcionam.
@@ -30,6 +33,8 @@ Sensor ultrassônico HC-SR04
 💡 Projeto 1: “Servo abre a tampa quando aperto um botão.”
 💡 Projeto 2: “Motor liga por 5 segundos quando o sensor detecta presença.”
 
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+
 ⚙️ ETAPA 2 — Automação com tempo e sensores (2 a 3 semanas)
 
 Objetivo: Criar sistemas que funcionam sozinhos.
@@ -52,6 +57,8 @@ Motor DC ou passo + driver (L298N)
 
 💡 Projeto 3: “Alimentador de peixes: libera ração 2x por dia automaticamente.”
 💡 Projeto 4: “Esteira liga automaticamente por tempo programado.”
+
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
 🌐 ETAPA 3 — Conectividade e controle via celular (3 a 4 semanas)
 
@@ -80,6 +87,8 @@ Servos/Motores usados antes
 💡 Projeto 5: “Alimentador inteligente controlado pelo celular.”
 💡 Projeto 6: “Esteira que liga e desliga via app.”
 
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+
 🧠 ETAPA 4 — Produto e design final (tempo variável)
 
 Objetivo: Transformar o protótipo em produto real.
@@ -96,6 +105,8 @@ Acesso fácil para manutenção
 
 💡 Projeto 7: “Alimentador automático pronto para venda.”
 
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+
 💼 ETAPA 5 — Tornar isso um negócio
 
 Você pode:
@@ -107,6 +118,8 @@ Montar uma página no Instagram/TikTok mostrando os testes
 Vender sob encomenda (muito pet shop ou fazenda compra fácil)
 
 Depois, expandir pra esteiras automatizadas, irrigação e portões inteligentes
+
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
 📚 CURSOS RECOMENDADOS NA UDEMY
 
